@@ -1,0 +1,6 @@
+ Time Zone    , Weather  , Humidity , Temperature , Wind Speed 
+ 6:00 - 8:00   , Sunny    ,80%, 29°C        , 20 km/h    
+ 8:00 - 10:00  , Clear    ,82%, 31°C        , 25 km/h    
+ 10:00 - 12:00 , Rain     ,88%, 28°C        , 23 km/h    
+ 12:00 - 14:00 , Cloudy   ,85%, 30°C        , 27 km/h    
+ 14:00 - 16:00 , Rain     ,90%, 27°C        , 22 km/h    

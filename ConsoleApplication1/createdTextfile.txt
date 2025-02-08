@@ -1,0 +1,3 @@
+Hello1
+second line from consoleHello2
+4th line from console
